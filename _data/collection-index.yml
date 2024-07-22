@@ -873,3 +873,8 @@
   contact: https://github.com/sidecus/devcontainer-features/issues
   repository: https://github.com/sidecus/devcontainer-features
   ociReference: ghcr.io/sidecus/devcontainer-features
+- name: MATLAB Feature for DevContainers
+  maintainer: The MathWorks Inc.
+  contact: https://github.com/mathworks/devcontainer-features/issues
+  repository: https://github.com/mathworks/devcontainer-features
+  ociReference: ghcr.io/mathworks/devcontainer-features
